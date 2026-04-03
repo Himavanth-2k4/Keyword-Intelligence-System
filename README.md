@@ -228,8 +228,8 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Puneet**
-- GitHub: [@Puneet902](https://github.com/Puneet902)
+**Kshatriya Himavanth Singh**
+- GitHub: [@Himavanth-2k4](https://github.com/Himavanth-2k4)
 
 ## 🙏 Acknowledgments
 

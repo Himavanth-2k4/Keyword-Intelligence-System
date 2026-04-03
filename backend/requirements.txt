@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+keybert
+sentence-transformers
+spacy
+scikit-learn
+transformers
+torch
+pypdf
+pandas

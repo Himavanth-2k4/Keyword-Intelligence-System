@@ -37,8 +37,8 @@ A modern web application that extracts keywords and keyphrases from text using b
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Puneet902/genai.git
-cd genai
+git clone https://github.com/Himavanth-2k4/Keyword-Intelligence-System.git
+cd Keyword-Intelligence-System
 ```
 
 #### 2. Backend Setup
